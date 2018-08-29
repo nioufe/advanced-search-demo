@@ -1,0 +1,72 @@
+[
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [error] [client 127.0.0.1] client denied by server configuration: /export/home/live/ap/htdocs/test",
+    "source": "apache",
+    "status": "error"
+  },
+  {
+    "message": "127.0.0.1 - frank [13/Jul/2016:10:55:36 +0000] \"GET /apache_pb.gif HTTP/1.0\" 200 2326",
+    "source": "nginx",
+    "status": "info"
+  },
+  {
+    "message": "127.0.0.1 - frank [13/Jul/2016:10:55:36 +0000] \"GET /apache_pb.gif HTTP/1.0\" 200 2326",
+    "source": "nginx",
+    "status": "info"
+  },
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [info] [client 127.0.0.1] informations about the current apache server",
+    "source": "apache",
+    "status": "info"
+  },
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [info] [client 127.0.0.1] informations about the current apache server",
+    "source": "apache",
+    "status": "info"
+  },
+  {
+    "message": "127.0.0.1 - frank [13/Jul/2016:10:55:36 +0000] \"GET /apache_pb.gif HTTP/1.0\" 200 2326",
+    "source": "nginx",
+    "status": "info"
+  },
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [warn] [client 127.0.0.1] some example warn message",
+    "source": "apache",
+    "status": "warn"
+  },
+  {
+    "message": "127.0.0.1 - frank [13/Jul/2016:10:55:36 +0000] \"GET /apache_pb.gif HTTP/1.0\" 200 2326",
+    "source": "nginx",
+    "status": "info"
+  },
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [info] [client 127.0.0.1] informations about the current apache server",
+    "source": "apache",
+    "status": "info"
+  },
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [info] [client 127.0.0.1] informations about the current apache server",
+    "source": "apache",
+    "status": "info"
+  },
+  {
+    "message": "127.0.0.1 - frank [13/Jul/2016:10:55:36 +0000] \"GET /apache_pb.gif HTTP/1.0\" 200 2326",
+    "source": "nginx",
+    "status": "info"
+  },
+  {
+    "message": "[Wed Oct 11 14:32:52 2000] [error] [client 127.0.0.1] client denied by server configuration: /export/home/live/ap/htdocs/test",
+    "source": "apache",
+    "status": "error"
+  },
+  {
+    "message": "2017/09/26 14:36:50 [error] 8409#8409: *317058 \"/usr/share/nginx/html/sql/sql-admin/index.html\" is not found (2: No such file or directory), client: 217.92.148.44, server: localhost, request: \"HEAD http://174.138.82.103:80/sql/sql-admin/ HTTP/1.1\", host: \"174.138.82.103\"",
+    "source": "nginx",
+    "status": "error"
+  },
+  {
+    "message": "127.0.0.1 - frank [13/Jul/2016:10:55:36 +0000] \"GET /apache_pb.gif HTTP/1.0\" 200 2326",
+    "source": "nginx",
+    "status": "info"
+  }
+]

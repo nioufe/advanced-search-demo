@@ -1,0 +1,12 @@
+.search-app {
+  padding-top: 16px;
+}
+
+.search-app__logs .row {
+  border-bottom: 1px solid lightgray;
+}
+.search-app__logs .row pre {
+  margin: 0.5rem 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
